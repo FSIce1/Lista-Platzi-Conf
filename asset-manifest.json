@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Lista-Platzi-Conf/static/css/main.aee4a56f.chunk.css",
-    "main.js": "/Lista-Platzi-Conf/static/js/main.b6266cca.chunk.js",
-    "main.js.map": "/Lista-Platzi-Conf/static/js/main.b6266cca.chunk.js.map",
+    "main.js": "/Lista-Platzi-Conf/static/js/main.d115cb41.chunk.js",
+    "main.js.map": "/Lista-Platzi-Conf/static/js/main.d115cb41.chunk.js.map",
     "runtime-main.js": "/Lista-Platzi-Conf/static/js/runtime-main.e5da755a.js",
     "runtime-main.js.map": "/Lista-Platzi-Conf/static/js/runtime-main.e5da755a.js.map",
     "static/css/2.be0955e4.chunk.css": "/Lista-Platzi-Conf/static/css/2.be0955e4.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.be0955e4.chunk.css",
     "static/js/2.42d1d085.chunk.js",
     "static/css/main.aee4a56f.chunk.css",
-    "static/js/main.b6266cca.chunk.js"
+    "static/js/main.d115cb41.chunk.js"
   ]
 }
