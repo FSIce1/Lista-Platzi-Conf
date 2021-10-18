@@ -4,7 +4,7 @@ import 'bootstrap/dist/css/bootstrap.css';
 
 //import Header from './components/Header';
 
-import App from './components/App';
+import App from './App';
 
 const container = document.getElementById('app');
 
