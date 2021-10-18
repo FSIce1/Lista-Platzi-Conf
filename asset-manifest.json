@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Lista-Platzi-Conf/static/css/main.aee4a56f.chunk.css",
+    "main.js": "/Lista-Platzi-Conf/static/js/main.b6266cca.chunk.js",
+    "main.js.map": "/Lista-Platzi-Conf/static/js/main.b6266cca.chunk.js.map",
+    "runtime-main.js": "/Lista-Platzi-Conf/static/js/runtime-main.e5da755a.js",
+    "runtime-main.js.map": "/Lista-Platzi-Conf/static/js/runtime-main.e5da755a.js.map",
+    "static/css/2.be0955e4.chunk.css": "/Lista-Platzi-Conf/static/css/2.be0955e4.chunk.css",
+    "static/js/2.42d1d085.chunk.js": "/Lista-Platzi-Conf/static/js/2.42d1d085.chunk.js",
+    "static/js/2.42d1d085.chunk.js.map": "/Lista-Platzi-Conf/static/js/2.42d1d085.chunk.js.map",
+    "index.html": "/Lista-Platzi-Conf/index.html",
+    "static/css/2.be0955e4.chunk.css.map": "/Lista-Platzi-Conf/static/css/2.be0955e4.chunk.css.map",
+    "static/css/main.aee4a56f.chunk.css.map": "/Lista-Platzi-Conf/static/css/main.aee4a56f.chunk.css.map",
+    "static/js/2.42d1d085.chunk.js.LICENSE.txt": "/Lista-Platzi-Conf/static/js/2.42d1d085.chunk.js.LICENSE.txt",
+    "static/media/404.fc658334.png": "/Lista-Platzi-Conf/static/media/404.fc658334.png",
+    "static/media/badge-header.2c3af956.svg": "/Lista-Platzi-Conf/static/media/badge-header.2c3af956.svg",
+    "static/media/platziconf-logo.c1d00c3e.svg": "/Lista-Platzi-Conf/static/media/platziconf-logo.c1d00c3e.svg",
+    "static/media/BadgeDetails.css": "/Lista-Platzi-Conf/static/media/stars.d4d2376b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5da755a.js",
+    "static/css/2.be0955e4.chunk.css",
+    "static/js/2.42d1d085.chunk.js",
+    "static/css/main.aee4a56f.chunk.css",
+    "static/js/main.b6266cca.chunk.js"
+  ]
+}
